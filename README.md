@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @materialsguy
-- 👀 I’m a (Computational-) Materials Scientist
-- 🌱  I am currently working on various materials science projects ranging from data evaluations for synchrotron measurements to machine learning for materials testing/materials exploration and finite element simulations using Python in Abaqus
+- 👀 I do research in Computational and Experimental Materials Science and Materials Informatics
+- 🌱 I am currently researching self-healing materials combined with data-centric approaches.
+- 🧠 I'm part of the platform for machine learning at the Austrian Academy of Sciences --> https://www.oeaw.ac.at/mla2s/home
 - 💞️ I’m happy to collaborate on all Materials Science related research
 - 📫 Reach me via claus.trost@oeaw.ac.at
 
